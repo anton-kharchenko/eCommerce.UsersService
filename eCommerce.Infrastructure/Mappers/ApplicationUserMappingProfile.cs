@@ -2,7 +2,7 @@
 using eCommerce.Core.DTO;
 using eCommerce.Core.Entities;
 
-namespace eCommerce.Core.Mappers;
+namespace eCommerce.Infrastructure.Mappers;
 
 public class ApplicationUserMappingProfile : Profile
 {
